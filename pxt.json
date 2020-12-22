@@ -1,0 +1,30 @@
+{
+    "name": "untitled bunny game, pt ",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "bunny": "pub:95841-35052-06175-91095",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.1.0",
+        "angry-farmer-walking": "pub:50929-38466-43267-25426",
+        "farmersnowman": "pub:57588-84143-20193-39017"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.2.16",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
