@@ -7,7 +7,9 @@
         "bunny": "pub:95841-35052-06175-91095",
         "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.1.0",
         "angry-farmer-walking": "pub:50929-38466-43267-25426",
-        "farmersnowman": "pub:57588-84143-20193-39017"
+        "farmersnowman": "pub:57588-84143-20193-39017",
+        "story": "github:riknoll/arcade-story#v1.3.1",
+        "carrotcarrotcarrot": "pub:36092-83276-66597-45960"
     },
     "files": [
         "main.blocks",
